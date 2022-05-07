@@ -1,1 +1,3 @@
 
+After importing the project. First create the  new database with name "online_retail". Then run the project. 
+Swagger is confugured in this Project. So after running the project ,and to hit the API. Go to chrome and paste the URL = "http://localhost:8080/swagger-ui.html#/"
